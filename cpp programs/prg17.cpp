@@ -13,7 +13,6 @@ int main()
         decimal = decimal / 2; 
         base = base * 10;
     }
-
     cout << "Binary equivalent: " << binary << endl;
     return 0;
 } 
