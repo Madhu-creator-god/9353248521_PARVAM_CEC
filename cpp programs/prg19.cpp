@@ -1,4 +1,3 @@
-/*c++ program to convert binary into decimal*/
 #include <iostream>
 using namespace std;
 int main() {
